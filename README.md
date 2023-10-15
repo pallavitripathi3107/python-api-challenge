@@ -14,8 +14,9 @@ In this problem, we were required to use Weather api in python and get the weath
   * starter_code/output_data/cities.csv 
 
 ## Learnings
-* We learnt to use api in python and get the data from remote server
+* We learnt to use api in python, pass api keys and other request params and get the data from remote server.
 * We learnt to store this data in the CSV file
 * We learnt to create and use functions to do operations that are repeatable.
 * We learnt to use linear regession and use rvalue to derive correlation between latitude and different weather aspects.
 * We learnt how to use the weather and geo data to find vactions destinations based on personal preferences.
+* We learnt to use hvplot functions and its parameters.
